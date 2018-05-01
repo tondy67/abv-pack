@@ -1,0 +1,35 @@
+{
+  "name": "abv-pack",
+  "version": "0.0.1",
+  "description": "Abvos pack",
+  "engines": {
+    "node": ">=6.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tondy67/abv-pack.git"
+  },
+  "author": {
+    "name": "Todor Angelov",
+    "email": "abv@tondy.com",
+    "url": "http://tondy.com"
+  },
+  "keywords": [
+    "abvos",
+    "serialization",
+    "binary",
+    "pack"
+  ],
+  "bugs": {
+    "url": "https://github.com/tondy67/abv-pack/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "homepage": "https://github.com/tondy67/abv-pack#readme",
+  "license": "MIT"
+}
